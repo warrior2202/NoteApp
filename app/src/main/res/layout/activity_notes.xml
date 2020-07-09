@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/cetmainback"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/mainstp"
+        android:src="@mipmap/cettopimag"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/jee_main_act_txt_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="26dp"
+        android:fontFamily="serif-monospace"
+        android:text="NOTES"
+
+
+
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/logo"
+        android:id="@+id/top_right_mains_images"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/notesrecycler_view"
+        android:layout_below="@id/top_right_mains_images"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>
