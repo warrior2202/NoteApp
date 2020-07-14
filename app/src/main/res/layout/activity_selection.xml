@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/mainbackground"
+    tools:context=".Mains.QuestionMains">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/mainstp"
+        android:src="@mipmap/mainstopimage"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:id="@+id/jee_main_act_txt_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="serif-monospace"
+        android:text="Question \n Papers"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/logo"
+        android:id="@+id/top_right_mains_images"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:id="@+id/jee_main_txt_img"
+
+        android:layout_height="100dp"
+
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/mainstp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="45dp"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/Science"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:onClick="mhtcet"
+        android:layout_below="@id/jee_main_txt_img"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:elevation="20dp"
+        android:outlineSpotShadowColor="@color/colorblue"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="20dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/try_layout_cet_image"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/button_bg_cet"
+                android:padding="15dp"
+                android:src="@mipmap/abc" />
+
+            <TextView
+                android:id="@+id/jee_cet_txt_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/try_layout_cet_image"
+                android:text="Science"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/mhtsideimg"
+                android:layout_alignParentBottom="true"
+
+                android:layout_marginTop="10dp"
+
+                android:layout_alignParentRight="true"
+                />
+
+
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/Commerce"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/Science"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:elevation="20dp"
+        android:outlineSpotShadowColor="@color/colorblue"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/try_layout_neet_image"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/btton_bg_neet"
+                android:padding="15dp"
+                android:src="@mipmap/dna" />
+
+            <TextView
+                android:id="@+id/neet_txt_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="8dp"
+                android:layout_toRightOf="@id/try_layout_neet_image"
+                android:text="Commerce"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                />
+
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/neetsideimg"
+                android:layout_alignParentBottom="true"
+
+                android:layout_marginTop="10dp"
+
+                android:layout_alignParentRight="true"
+                />
+
+
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
+
+<!--    <Button-->
+<!--        android:id="@+id/Science"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="ScienceChoice"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/Commerce"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/Commerce"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Button"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/Science"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/Science"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/Science" />-->
