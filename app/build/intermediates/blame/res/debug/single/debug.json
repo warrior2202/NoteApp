@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subjectist.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_subjectist.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_neetsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\neetsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ladder.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ladder.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jeemainsname.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\jeemainsname.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainsinglelayout.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\mainsinglelayout.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_move.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_up.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\up.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_main_background.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\gradient_main_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buuton_bg_adv.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\buuton_bg_adv.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mhtsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\mhtsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_categorysingle.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\categorysingle.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_abc.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\abc.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mhtsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\mhtsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_neet.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\neet.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jeeadvside.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\jeeadvside.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cetmainback.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\cetmainback.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btton_bg_neet.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\btton_bg_neet.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mhtsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\mhtsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_out.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_neettopimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\neettopimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selection.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_selection.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_rounded_corners.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\button_bg_rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jeeadvname.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\jeeadvname.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_sequential.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_main_background.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\splash_main_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splashtop.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\splashtop.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jeeadvside.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\jeeadvside.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_downloadimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\downloadimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_neetsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\neetsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mainadvback.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\mainadvback.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_flip.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_neetsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\neetsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notes.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xhdpi\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_together.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_neetbackimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\neetbackimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mainstopimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\mainstopimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mhtsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\mhtsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_advtopimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\advtopimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_title.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\title.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_dna.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\dna.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_cet.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\drawable\\button_bg_cet.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_blink.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_neetsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\neetsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cettopimag.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\cettopimag.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jeeadvside.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-mdpi\\jeeadvside.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdf_view.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_pdf_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jeeadvside.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-hdpi\\jeeadvside.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_topimage.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\topimage.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jeeadvside.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\jeeadvside.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mhtsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\mhtsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_neetsideimg.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\neetsideimg.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jeemaintopright.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\jeemaintopright.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mainbackground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\mainbackground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_cet.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\cet.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_downarrow.png.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\mipmap-xxhdpi\\downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "D:\\AndroidTrashProject1\\NoteAppJava\\app\\src\\main\\res\\anim\\slide_down.xml"
+    }
+]
